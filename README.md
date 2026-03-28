@@ -1,5 +1,5 @@
-# WriteUps-PGP-OffSec (For OSCP Practice) 
-A complete collection of OffSec PGP write-ups used for OSCP preparation. Each write-up documents my process, methodology, and lessons learned while honing red team and pentesting skills.
+# WriteUps-PG-OffSec (For OSCP Practice) 
+A complete collection of OffSec PG write-ups used for OSCP preparation. Each write-up documents my process, methodology, and lessons learned while honing red team and pentesting skills.
 
 For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 
