@@ -1,0 +1,24 @@
+$ nmap 192.168.115.24 -p- -sC -A --min-rate 1000 
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-03-28 02:26 -0700
+Warning: 192.168.115.24 giving up on port because retransmission cap hit (10).
+Nmap scan report for 192.168.115.24
+Host is up (0.18s latency).
+Not shown: 64161 closed tcp ports (reset), 1372 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 8.9p1 Ubuntu 3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 b9:bc:8f:01:3f:85:5d:f9:5c:d9:fb:b6:15:a0:1e:74 (ECDSA)
+|_  256 53:d9:7f:3d:22:8a:fd:57:98:fe:6b:1a:4c:ac:79:67 (ED25519)
+8000/tcp open  http    WSGIServer 0.2 (Python 3.10.6)
+|_http-cors: GET POST PUT DELETE OPTIONS PATCH
+|_http-title: Gerapy
+Device type: general purpose|router
+Running: Linux 5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 5.0 - 5.14, MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Network Distance: 4 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 124.38 seconds
