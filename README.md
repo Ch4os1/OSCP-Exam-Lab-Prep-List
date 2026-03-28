@@ -9,8 +9,8 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 
 | Category        | Completed | Progress        |
 | --------------- | --------- | --------------- |
-| 🟢 Easy         | 0 / 5     | 0%              |
-| 🟡 Intermediate | 0 / 26    | 0%              |
+| 🟢 Easy         | 1 / 6     | 0%              |
+| 🟡 Intermediate | 0 / 25    | 0%              |
 | 🔴 Hard         | 0 / 25    | 0%              |
 | 🤯 Very Hard    | 0 / 16    | 0%              |
 | 🔵 AD           | 0 / 6     | 0%              |
@@ -21,10 +21,11 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 ## 🧩 Box Lists
 
 
-### 🟢 Easy (0/5)
+### 🟢 Easy (0/6)
 #### Linux
 - Levram
 - Gaara
+- ClamAV (Completed)
 
 #### Windows
 - Kevin
@@ -32,9 +33,8 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon
 
 
-### 🟡 Intermediate (0/26)
+### 🟡 Intermediate (0/25)
 #### Linux
-- ClamAV
 - Pelican
 - Payday
 - Snookums
