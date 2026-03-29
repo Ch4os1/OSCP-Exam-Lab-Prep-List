@@ -7,13 +7,13 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 
 ## 📊 CPTS Prep Progress (Static Snapshot)
 
-| Category        | Completed | Progress        |
-| --------------- | --------- | --------------- |
-| 🟢 Easy         | 2 / 6     | 0%              |
-| 🟡 Intermediate | 0 / 25    | 0%              |
-| 🔴 Hard         | 0 / 25    | 0%              |
-| 🤯 Very Hard    | 0 / 16    | 0%              |
-| 🔵 AD           | 0 / 6     | 0%              |
+| Category        | Completed | Progress |
+| --------------- | --------- | -------- |
+| 🟢 Easy         | 3 / 6     | 0%       |
+| 🟡 Intermediate | 0 / 25    | 0%       |
+| 🔴 Hard         | 0 / 25    | 0%       |
+| 🤯 Very Hard    | 0 / 16    | 0%       |
+| 🔵 AD           | 0 / 7     | 0%       |
 
 ---
 
@@ -21,10 +21,10 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 ## 🧩 Box Lists
 
 
-### 🟢 Easy (2/6)
+### 🟢 Easy (3/6)
 #### Linux
 - Levram (Completed)
-- Gaara
+- Gaara (Completed)
 - ClamAV (Completed)
 
 #### Windows
@@ -116,10 +116,11 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Hepet
 - Monster
 
-### 🔵 AD (0/6)
+### 🔵 AD (0/7)
 #### Hard
 - Hutch
 - Vault
+- Heist
 
 #### Very Hard
 - Access
@@ -127,5 +128,41 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Nagoya
 - Hokkaido
 
+## Additional Boxes
+### Linux
+- Twiggy
+- Exfiltrated
+- Blackgate
+- Booleann
+- Codo
+- Hub
+- Image
+- Law
+- Press
+- RubyDome
+- Workaholic
+- PyLoader
+- Plum
+- Jordak
+- CVE-2023-6019
+- Sea
+- Election 1
+- Monitoring
+- InsantiyHosting
+- Vegeta 1
+- SoSimple
+- DC-9
+- Tre
+- Seppuku
+- FunBox
+- Katana
+- DriftingBlue6
+- Sams
+- BRTSys2.1
+### Windows
+- Nara
+- Osaka
+## References
 
-
+https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
+https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997
