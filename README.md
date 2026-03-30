@@ -7,13 +7,14 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 
 ## 📊 CPTS Prep Progress (Static Snapshot)
 
-| Category        | Completed | Progress |
-| --------------- | --------- | -------- |
-| 🟢 Easy         | 6 / 6     | 0%       |
-| 🟡 Intermediate | 1 / 25    | 0%       |
-| 🔴 Hard         | 0 / 25    | 0%       |
-| 🤯 Very Hard    | 0 / 16    | 0%       |
-| 🔵 AD           | 0 / 7     | 0%       |
+| Category        | Completed | Progress        |
+| --------------- | --------- | --------------- |
+| 🟢 Easy         | 6 / 6     | ██████████ 100% |
+| 🟡 Intermediate | 5 / 25    | ██ 20%          |
+| 🔴 Hard         | 0 / 25    | 0%              |
+| 🤯 Very Hard    | 0 / 16    | 0%              |
+| 🔵 AD           | 0 / 7     | 0%              |
+| ⛓️‍💥 Chains    | 0/4       | 0%              |
 
 ---
 
@@ -33,13 +34,13 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (2/25)
+### 🟡 Intermediate (5/25)
 #### Linux
 - Pelican (Completed)
 - Payday (Completed)
-- Snookums
-- Bratarina
-- Nibbles
+- Snookums (Completed)
+- Bratarina (Completed)
+- Nibbles (Completed)
 - ZenPhoto
 - Cockpit
 - Extplorer
@@ -127,6 +128,12 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Resourced
 - Nagoya
 - Hokkaido
+
+### Chains (Mini Prolab on HTB 0/4) 
+- Trusted
+- Reflection
+- Hybrid
+- Lustrous
 
 ## Additional Boxes
 ### Linux
