@@ -51,7 +51,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Exfiltrated
 - QuackerJack 
 - Wombo
-- Flu - Goal for today 
+- Flu
 - Mzeeav
 - Ochima
 - SpiderSociety
@@ -129,8 +129,12 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 ### ⛓️‍💥 Chains (0/4) 
 - Trusted
 - Reflection
-- Hybrid
-- Lustrous
+- Heron
+- Intercept
+- Kaiju
+- Sidecar
+- RPG
+- Tengu
 
 ## Additional Boxes
 ### Linux
