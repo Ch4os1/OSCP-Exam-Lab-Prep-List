@@ -10,7 +10,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | Category                          | Completed | Progress        |
 | --------------------------------- | --------- | --------------- |
 | 🟢 Easy                           | 6 / 6     | ██████████ 100% |
-| 🟡 Intermediate                   | 11 / 24   | ██ 20%          |
+| 🟡 Intermediate                   | 12 / 24   | █████ 50%       |
 | 🔴 Hard                           | 0 / 25    | 0%              |
 | 🤯 Very Hard                      | 0 / 16    | 0%              |
 | 🔵 AD                             | 0 / 7     | 0%              |
@@ -34,7 +34,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (10/24)
+### 🟡 Intermediate (12/24)
 #### Linux
 - Pelican (Completed)
 - Payday (Completed)
@@ -47,7 +47,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Walla (Completed)
 - Sorcerer (Completed)
 - Astronaut (Completed)
-- Bullybox 
+- Bullybox (Completed)
 - Exfiltrated
 - QuackerJack 
 - Wombo
