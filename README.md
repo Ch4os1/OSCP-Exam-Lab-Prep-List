@@ -1,20 +1,20 @@
 # WriteUps-PG-OffSec (For OSCP Practice) 
 A complete collection of OffSec PG write-ups used for OSCP preparation. Each write-up documents my process, methodology, and lessons learned while honing red team and pentesting skills.
 
-For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
+For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 
 ---
 
 ## 📊 CPTS Prep Progress (Static Snapshot)
 
-| Category        | Completed | Progress        |
-| --------------- | --------- | --------------- |
-| 🟢 Easy         | 6 / 6     | ██████████ 100% |
-| 🟡 Intermediate | 5 / 25    | ██ 20%          |
-| 🔴 Hard         | 0 / 25    | 0%              |
-| 🤯 Very Hard    | 0 / 16    | 0%              |
-| 🔵 AD           | 0 / 7     | 0%              |
-| ⛓️‍💥 Chains    | 0/4       | 0%              |
+| Category                          | Completed | Progress        |
+| --------------------------------- | --------- | --------------- |
+| 🟢 Easy                           | 6 / 6     | ██████████ 100% |
+| 🟡 Intermediate                   | 10 / 24   | ██ 20%          |
+| 🔴 Hard                           | 0 / 25    | 0%              |
+| 🤯 Very Hard                      | 0 / 16    | 0%              |
+| 🔵 AD                             | 0 / 7     | 0%              |
+| ⛓️‍💥 Chains (Mini Prolab on HTB) | 0/4       | 0%              |
 
 ---
 
@@ -34,25 +34,24 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (5/25)
+### 🟡 Intermediate (10/24)
 #### Linux
 - Pelican (Completed)
 - Payday (Completed)
 - Snookums (Completed)
 - Bratarina (Completed)
 - Nibbles (Completed)
-- ZenPhoto
-- Cockpit
-- Extplorer
-- Walla
-- PC
-- Sorcerer
+- ZenPhoto (Completed)
+- Cockpit (Completed)
+- Extplorer (Completed)
+- Walla (Completed)
+- Sorcerer (Completed)
 - Astronaut
-- Bullybox
+- Bullybox 
 - Exfiltrated
-- QuackerJack
+- QuackerJack 
 - Wombo
-- Flu
+- Flu - Goal for today 
 - Mzeeav
 - Ochima
 - SpiderSociety
@@ -60,8 +59,6 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Loly
 - Potato
 - BBScute
-
-
 #### Windows
 - Slort
 
@@ -129,7 +126,7 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Nagoya
 - Hokkaido
 
-### Chains (Mini Prolab on HTB 0/4) 
+### ⛓️‍💥 Chains (0/4) 
 - Trusted
 - Reflection
 - Hybrid
