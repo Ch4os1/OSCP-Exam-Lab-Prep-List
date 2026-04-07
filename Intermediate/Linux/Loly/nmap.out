@@ -1,0 +1,20 @@
+$ nmap 192.168.55.121 -sC -sV -p- -A
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-04-05 18:35 +0000
+Nmap scan report for 192.168.55.121
+Host is up (0.00038s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx 1.10.3 (Ubuntu)
+|_http-title: Welcome to nginx!
+|_http-server-header: nginx/1.10.3 (Ubuntu)
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.11 - 4.9
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 1025/tcp)
+HOP RTT     ADDRESS
+1   0.17 ms 192.168.49.1
+2   0.37 ms 192.168.55.121
