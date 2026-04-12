@@ -1,4 +1,4 @@
-# [Name]
+
 
 ## Lab Details
 - Difficulty:
@@ -6,28 +6,30 @@
 - Foothold time:
 - Privesc time:
 - Total solve time:
+- Blockers: 
 
 ## Summary
 - Initial access:
 - Privilege escalation:
 
 ## Enumeration
-- Key findings:
-##### Steps
-## Foothold
-- Path:
+- Key findings:  Identified open ports on targets
+#### Steps
+- run `nmap`
+```
 
-##### Steps
+```
+## Foothold
+
+#### Steps
 
 ## Lateral Movement 
-- Path:
 
-##### Steps
+#### Steps
 
 ## Privilege Escalation
-- Path:
 
-##### Steps
+#### Steps
 
 ## Lessons Learned
 - Attack family:

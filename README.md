@@ -1,5 +1,7 @@
-# OSCP Practice Prep List 
-A complete collection of OffSec PG labs and HTB prob labs used for OSCP preparation. <br>
+# OSCP Practice Prep Check List 
+A  collection of OffSec PG labs and HTB prob labs used for OSCP preparation. <br>
+Use this check list as a reference to practice pentesting skills and knowledege. <br>
+A writeup template is included, feel free to download and use it to document each box
 **NOTE**: As required by OffSec this repo will not contain actual writeups. 
 
 For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
