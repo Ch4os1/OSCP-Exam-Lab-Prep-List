@@ -1,5 +1,6 @@
-# WriteUps-PG-OffSec (For OSCP Practice) 
-A complete collection of OffSec PG write-ups used for OSCP preparation. Each write-up documents my process, methodology, and lessons learned while honing red team and pentesting skills.
+# OSCP Practice Prep List 
+A complete collection of OffSec PG labs and HTB prob labs used for OSCP preparation. 
+**NOTE**: As required by OffSec this repo will not contain actual writeups. 
 
 For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 
