@@ -62,7 +62,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 #### Windows
 - Slort (Completed)
 
-### 🔴 Hard (0/25)
+### 🔴 Hard (10/25)
 #### Linux
 - Pebbles (Completed)
 - Nukem (Completed)
