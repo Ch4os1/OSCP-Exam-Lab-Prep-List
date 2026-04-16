@@ -1,7 +1,7 @@
 # OSCP Practice Prep Check List 
-A  collection of OffSec PG labs and HTB prob labs used for OSCP preparation. <br>
+A  collection of OffSec PG labs, HTB Labs and HTB prob labs used for OSCP preparation. <br>
 Use this check list as a reference to practice pentesting skills and knowledege. <br>
-A writeup template is included, feel free to download and use it to document each box
+A writeup template is included, feel free to download and use it to document each box<br>
 **NOTE**: As required by OffSec this repo will not contain actual writeups. 
 
 For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
@@ -76,17 +76,17 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Xposedapi (Completed)
 - Fired (Completed)
 - Vmdak (Completed)
-- Zab
-- Amaterasu
-- Stapler
-- Blogger
-- Blackgate
-- InsantiyHosting
+- Zab (Completed)
+- Amaterasu (Completed)
+- Stapler (Completed)
+- Blogger (Completed)
+- Blackgate (Completed)
+- InsantiyHosting (Completed)
 #### Windows
-- Jacko
-- Craft
-- Squid
-- Nickel
+- Jacko (Completed)
+- Craft (Completed)
+- Squid (Completed)
+- Nickel 
 - MedJed
 - Billyboss
 - Shenzi
@@ -139,7 +139,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - RPG
 - Tengu
 
-## Additional Boxes
+## Additional Boxes (0/26)
 ### Linux (Easy - Intermediate)
 - Twiggy
 - Booleann
@@ -168,7 +168,18 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Sams
 - BRTSys2.1
 
+### HTB (Windows 0/9)
+- Markup - Easy
+- Giddy - Medium
+- Bounty - Easy
+- Artic - Easy
+- Love - Easy
+- Mailling - Easy
+- Heist - Easy
+- Signed - Medium
+- Eighteen - Easy
 ## References
 
 https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
 https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997
+
