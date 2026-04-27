@@ -1,5 +1,5 @@
 # OSCP Practice Prep Check List 
-A  collection of OffSec PG labs, HTB Labs and HTB prob labs used for OSCP preparation. <br>
+A  collection of OffSec     PG labs, HTB Labs and HTB prob labs used for OSCP preparation. <br>
 Use this check list as a reference to practice pentesting skills and knowledege. <br>
 A writeup template is included, feel free to download and use it to document each box<br>
 **NOTE**: As required by OffSec this repo will not contain actual writeups. 
@@ -15,8 +15,9 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | 🟢 Easy                           | 6 / 6     | ██████████ 100% |
 | 🟡 Intermediate                   | 23 / 23   | ██████████ 100% |
 | 🔴 Hard                           | 29 / 29   | ██████████ 100% |
-| 🤯 Very Hard                      | 0 / 16    | 0%              |
+| 🤯 Very Hard                      | 22 / 22   | ██████████ 100% |
 | 🔵 AD                             | 0 / 7     | 0%              |
+| 🟩 HTB Windows Boxes              | 0 / 11    | 0%              |
 | ⛓️‍💥 Chains (Mini Prolab on HTB) | 0 / 8     | 0%              |
 
 ---
@@ -98,33 +99,32 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Hutch (Completed)
 - Vault (Completed)
 
-### 🤯 Very Hard (0/23)
+### 🤯 Very Hard (22/22)
 #### Linux
-- Hetemit
-- Clue
-- Postfish
-- Hawat
-- Apex
-- Hunit
-- Readys
-- Marketing
-- Zipper
-- Scrutiny
-- SPX
-- Mantis
-- BitForge
-- WallpaperHub
+- Hetemit (Completed)
+- Clue (Completed)
+- Postfish (Completed)
+- Hawat (Completed)
+- Apex (Completed)
+- Hunit (Completed)
+- Readys (Completed)
+- Marketing (Completed)
+- Zipper (Completed)
+- Scrutiny(Completed)
+- SPX (Completed)
+- Mantis (Completed)
+- BitForge (Completed)
+- WallpaperHub (Completed)
 #### Windows
-- Hepet
-- Monster
-- Osaka 
+- Hepet (Completed)
+- Monster (Completed)
 #### AD
-- Access
-- Resourced
-- Nagoya
-- Hokkaido
-- Nara
-- Heist
+- Access (Completed)
+- Resourced (Completed)
+- Nagoya (Completed)
+- Hokkaido (Completed)
+- Nara (Completed)
+- Heist (Completed)
 
 ### ⛓️‍💥 Chains (0/8) 
 - Trusted
@@ -136,8 +136,8 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - RPG
 - Tengu
 
-
-### HTB (Windows 0/11)
+### Targeted Trainings
+#### More on Windows - HTB (0/11)
 - Markup - Easy
 - Giddy - Medium
 - Bounty - Easy
@@ -149,6 +149,10 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Eighteen - Easy
 - Sizzle - Insane
 - Mist - Insane
+#### More on SQLi 
+- To be decided 
+#### More on Phishing
+- To be decided 
 ## Additional Boxes (0/26)
 ### Linux (Easy - Intermediate)
 - Twiggy
