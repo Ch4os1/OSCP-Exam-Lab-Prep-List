@@ -16,7 +16,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | 🟡 Intermediate                   | 23 / 23   | ██████████ 100% |
 | 🔴 Hard                           | 29 / 29   | ██████████ 100% |
 | 🤯 Very Hard                      | 22 / 22   | ██████████ 100% |
-| 🔵 AD                             | 0 / 7     | 0%              |
+| 🔵 AD                             | 8 / 8     | ██████████ 100% |
 | 🟩 HTB Windows Boxes              | 0 / 11    | 0%              |
 | ⛓️‍💥 Chains (Mini Prolab on HTB) | 0 / 8     | 0%              |
 
