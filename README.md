@@ -1,4 +1,4 @@
-# OSCP Practice Prep Check List 
+# OSCP Practice Prep Check List (90 Labs Completed - TBC)
 A  collection of OffSec  PG labs, HTB Labs and HTB prob labs I used for OSCP preparation. <br>
 It is a combination of [Lainkusanagi OSCP Like](https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997) and [NetSecFocus Trophy Room](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview) with extra boxes. 
 
