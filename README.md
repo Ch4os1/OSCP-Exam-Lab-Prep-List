@@ -20,7 +20,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | 🤯 Very Hard                      | 22 / 22   | ██████████ 100% |
 | 🔵 AD                             | 8 / 8     | ██████████ 100% |
 | 🟩 HTB Windows Boxes              | 0 / 11    | 0%              |
-| ⛓️‍💥 Chains (Mini Prolab on HTB) | 0 / 8     | 0%              |
+| ⛓️‍💥 Chains (Mini Prolab on HTB) | 1 / 6     | █ 16 %          |
 
 ---
 
@@ -137,16 +137,13 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Nara (Completed)
 - Heist (Completed)
 
-### ⛓️‍💥 Chains (0/8) 
+### ⛓️‍💥 Chains (0/6) 
+- POO (Completed)
 - Trusted
-- Reflection
 - Heron
-- Intercept
 - Kaiju
-- Sidecar
-- RPG
 - Tengu
-
+- Hades
 ### Targeted Trainings
 #### More on Windows - HTB (0/11)
 - Markup - Easy
@@ -189,6 +186,11 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Sams
 - BRTSys2.1
 
+## Additional Chained Labs (HTB)
+- Reflection
+- Intercept
+- Sidecar
+- RPG
 ## References
 
 https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
