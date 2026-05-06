@@ -139,7 +139,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 
 ### ⛓️‍💥 Chains (1/2) 
 - POO (Completed) 
-- Heron
+- Heron (Completed)
 ### Targeted Trainings
 #### More on Windows - HTB (0/11)
 - Markup - Easy
