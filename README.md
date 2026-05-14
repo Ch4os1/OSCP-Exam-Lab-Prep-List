@@ -12,15 +12,15 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 
 ## 📊 CPTS Prep Progress (Static Snapshot)
 
-| Category                          | Completed | Progress        |
-| --------------------------------- | --------- | --------------- |
-| 🟢 Easy                           | 8 / 8     | ██████████ 100% |
-| 🟡 Intermediate                   | 29 / 29   | ██████████ 100% |
-| 🔴 Hard                           | 31 / 31   | ██████████ 100% |
-| 🤯 Very Hard                      | 22 / 22   | ██████████ 100% |
-| 🔵 AD                             | 8 / 8     | ██████████ 100% |
-| 🟩 HTB Windows Boxes              | 0 / 11    | 0%              |
-| ⛓️‍💥 Chains (Mini Prolab on HTB) | 2 / 6     | 0 %             |
+| Category                                   | Completed | Progress        |
+| ------------------------------------------ | --------- | --------------- |
+| 🟢 Easy                                    | 8 / 8     | ██████████ 100% |
+| 🟡 Intermediate                            | 29 / 29   | ██████████ 100% |
+| 🔴 Hard                                    | 31 / 31   | ██████████ 100% |
+| 🤯 Very Hard                               | 22 / 22   | ██████████ 100% |
+| 🔵 AD                                      | 8 / 8     | ██████████ 100% |
+| 🟩 HTB Windows Boxes (Additional Training) | 0 / 11    | 0%              |
+| ⛓️‍💥 Chains (Mini Prolab on HTB)          | 4 / 6     | 66.6 %          |
 
 ---
 
@@ -137,13 +137,14 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Nara (Completed)
 - Heist (Completed)
 
-### ⛓️‍💥 Chains (2/6) 
+### ⛓️‍💥 Chains (4/6) 
 - POO (Completed) 
 - Heron (Completed)
-- Trusted
+- Tengu (Completed)
+- Trusted (Completed)
+- Reflection
 - Kaiju
-- Tengu
-- Offshore 
+- Hades
 ### Targeted Trainings
 #### More on Windows - HTB (0/11)
 - Markup - Easy
@@ -161,7 +162,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - To be decided 
 #### More on Phishing
 - To be decided 
-## Additional Boxes 
+### Additional Boxes 
 ### Linux (Easy - Intermediate)
 - Booleann
 - Codo
@@ -186,20 +187,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Sams
 - BRTSys2.1
 
-## Additional Chained Labs (HTB)
-- RedTeam: Requires understanding of Evasion
-	- Kaiju
-	- Tengu
-	- Hades
-	- Trusted
-- Multiple Entries: Similar to a normal Pro Lab
-	- Reflection
-	- Intercept
-	- Sidecar
-	- RPG
-	- Tea
-## References
-
-https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
-https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997
+### References 
+[NetSecFocus Trophy Room](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview)
+[Lainkusanagi OSCP Like](https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997)
 
